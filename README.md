@@ -1,2 +1,2 @@
-# learning-c-
+# learning-c#
 let`s go
