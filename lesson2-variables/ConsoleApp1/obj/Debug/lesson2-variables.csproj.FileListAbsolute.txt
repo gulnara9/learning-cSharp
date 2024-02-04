@@ -1,0 +1,7 @@
+C:\Users\acer\Desktop\c#learning\lesson2-variables\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\acer\Desktop\c#learning\lesson2-variables\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\acer\Desktop\c#learning\lesson2-variables\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\acer\Desktop\c#learning\lesson2-variables\ConsoleApp1\obj\Debug\lesson2-variables.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\c#learning\lesson2-variables\ConsoleApp1\obj\Debug\lesson2-variables.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\c#learning\lesson2-variables\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\acer\Desktop\c#learning\lesson2-variables\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
