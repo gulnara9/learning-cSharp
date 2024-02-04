@@ -1,0 +1,14 @@
+C:\Users\acer\Desktop\c#learning\lesson4-getting-user-input\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\acer\Desktop\c#learning\lesson4-getting-user-input\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\acer\Desktop\c#learning\lesson4-getting-user-input\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\acer\Desktop\c#learning\lesson4-getting-user-input\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\c#learning\lesson4-getting-user-input\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\c#learning\lesson4-getting-user-input\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\acer\Desktop\c#learning\lesson4-getting-user-input\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\acer\Desktop\c#learning\lesson6-getting-user-input\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\c#learning\lesson6-getting-user-input\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\c#learning\lesson6-getting-user-input\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\acer\Desktop\c#learning\lesson6-getting-user-input\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\acer\Desktop\c#learning\lesson6-getting-user-input\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\acer\Desktop\c#learning\lesson6-getting-user-input\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\acer\Desktop\c#learning\lesson6-getting-user-input\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
