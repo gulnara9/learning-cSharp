@@ -4,6 +4,9 @@
 ## + **notes:**
 
 ### lesson1: 
++ Console.WriteLine və Console.Write yazını ekranakonsola yazdırmaq üçün istifadə edirik. fərq budur ki Console.WriteLine ekrana yazdırdıqdan sonra yeni sətirə keçir, və bundan sonra yazılacaq olanlar yeni sətirdən başlayır, ancaq Console.Write özündən sonra yeni sətirə keçmir, və özündən sonrakı icra olunacaq kod bloku / ekrana çıxacaq olan text əvvəlki ekranda olan yazının önündən yazılacaq.
++ C# is case-sensitive;
++ class is a container for data and methods, which brings functionality to your program. Every line of code that runs in C# must be inside a class.
 ### lesson2:
 
 
